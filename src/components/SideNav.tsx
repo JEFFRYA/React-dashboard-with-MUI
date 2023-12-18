@@ -68,7 +68,7 @@ const styles = {
         my: 5
     },
     avatar: {
-        bgcolor: "secondary.main"
+        bgcolor: "secondary.dark"
     },
     nameComplete: {
         mt: 1
